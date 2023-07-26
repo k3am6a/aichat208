@@ -6,7 +6,7 @@ const en: LocaleType = {
   WIP: "Coming Soon...",
   Error: {
     Unauthorized:
-      "Unauthorized access, please enter access code in [auth](/#/auth) page.",
+      "Welcome to use ChatGPT, please enter access code in [auth](/#/auth) page.",
   },
   Auth: {
     Title: "Need Access Code",
