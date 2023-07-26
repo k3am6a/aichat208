@@ -6,11 +6,11 @@ const en: LocaleType = {
   WIP: "Coming Soon...",
   Error: {
     Unauthorized:
-      "Unauthorized access, please enter access code in [auth](/#/auth) page. 如果您没有访问密码，淘宝搜索店铺名:人工智能AI看世界或者微信搜索: price256添加店家微信购买，购买码一年有效期",
+      "Unauthorized access, please enter access code in [auth](/#/auth) page.",
   },
   Auth: {
     Title: "Need Access Code",
-    Tips: "如果您没有访问密码，淘宝搜索店铺名:人工智能AI看世界或者微信搜索: price256添加店家微信购买，购买码一年有效期",
+    Tips: "Please enter access code below",
     Input: "access code",
     Confirm: "Confirm",
     Later: "Later",
