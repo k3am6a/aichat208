@@ -4,11 +4,11 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "欢迎使用ChatGPT! 请前往[登录](/#/auth)页输入访问密码",
+      "欢迎使用ChatGPT! 请前往[登录](/#/auth)页输入访问密码。如需支持请联系店家V：price256",
   },
   Auth: {
     Title: "需要密码",
-    Tips: "管理员开启了密码验证，请在下方填入访问码",
+    Tips: "请填入访问码。如需支持请联系店家V：price256",
     Input: "在此处填写访问码",
     Confirm: "确认",
     Later: "稍后再说",
