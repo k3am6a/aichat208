@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "欢迎使用ChatGPT! 请前往[登录](/#/auth)页输入访问密码。如需支持请联系店家V：price256",
+      "欢迎使用ChatGPT! 请点击左下角[设置](/#/settings)，输入店家发给你的API密钥。如需支持请联系店家V：price256",
   },
   Auth: {
     Title: "需要密码",
